@@ -1,6 +1,10 @@
 # connections
 
-A Clojure library designed to ... well, that part is up to you.
+Wrappers around various JDBC connection pooling libraries
+
+Druid  https://github.com/alibaba/druid
+DBCP   https://github.com/http-kit/dbcp.clj
+Bone   http://jolbox.com/
 
 ## Usage
 
